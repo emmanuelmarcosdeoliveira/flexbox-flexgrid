@@ -16,3 +16,8 @@ h1 {
   text-align: center;
   margin-top: 100px;
 }
+/* Definições usadas para a sections flex */
+img {
+  max-width: 100%;
+  display: block;
+}
